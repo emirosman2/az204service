@@ -1,0 +1,21 @@
+C:\Users\memirosm\source\repos\az204service\az204service\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\memirosm\source\repos\az204service\az204service\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\memirosm\source\repos\az204service\az204service\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\memirosm\source\repos\az204service\az204service\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\syssunumapp - Web Deploy\profile.arm.json
+C:\Users\memirosm\source\repos\az204service\az204service\bin\Release\netcoreapp3.1\az204service.exe
+C:\Users\memirosm\source\repos\az204service\az204service\bin\Release\netcoreapp3.1\az204service.deps.json
+C:\Users\memirosm\source\repos\az204service\az204service\bin\Release\netcoreapp3.1\az204service.runtimeconfig.json
+C:\Users\memirosm\source\repos\az204service\az204service\bin\Release\netcoreapp3.1\az204service.runtimeconfig.dev.json
+C:\Users\memirosm\source\repos\az204service\az204service\bin\Release\netcoreapp3.1\az204service.dll
+C:\Users\memirosm\source\repos\az204service\az204service\bin\Release\netcoreapp3.1\az204service.pdb
+C:\Users\memirosm\source\repos\az204service\az204service\obj\Release\netcoreapp3.1\az204service.csprojAssemblyReference.cache
+C:\Users\memirosm\source\repos\az204service\az204service\obj\Release\netcoreapp3.1\az204service.AssemblyInfoInputs.cache
+C:\Users\memirosm\source\repos\az204service\az204service\obj\Release\netcoreapp3.1\az204service.AssemblyInfo.cs
+C:\Users\memirosm\source\repos\az204service\az204service\obj\Release\netcoreapp3.1\az204service.csproj.CoreCompileInputs.cache
+C:\Users\memirosm\source\repos\az204service\az204service\obj\Release\netcoreapp3.1\az204service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\memirosm\source\repos\az204service\az204service\obj\Release\netcoreapp3.1\az204service.RazorTargetAssemblyInfo.cache
+C:\Users\memirosm\source\repos\az204service\az204service\obj\Release\netcoreapp3.1\staticwebassets\az204service.StaticWebAssets.Manifest.cache
+C:\Users\memirosm\source\repos\az204service\az204service\obj\Release\netcoreapp3.1\staticwebassets\az204service.StaticWebAssets.xml
+C:\Users\memirosm\source\repos\az204service\az204service\obj\Release\netcoreapp3.1\az204service.dll
+C:\Users\memirosm\source\repos\az204service\az204service\obj\Release\netcoreapp3.1\az204service.pdb
+C:\Users\memirosm\source\repos\az204service\az204service\obj\Release\netcoreapp3.1\az204service.genruntimeconfig.cache
