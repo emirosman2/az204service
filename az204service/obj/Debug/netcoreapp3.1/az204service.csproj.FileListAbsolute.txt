@@ -18,3 +18,4 @@ C:\Users\memirosm\source\repos\az204service\az204service\obj\Debug\netcoreapp3.1
 C:\Users\memirosm\source\repos\az204service\az204service\obj\Debug\netcoreapp3.1\az204service.dll
 C:\Users\memirosm\source\repos\az204service\az204service\obj\Debug\netcoreapp3.1\az204service.pdb
 C:\Users\memirosm\source\repos\az204service\az204service\obj\Debug\netcoreapp3.1\az204service.genruntimeconfig.cache
+C:\Users\memirosm\source\repos\az204service\az204service\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\syssunumapp - Web Deploy\profile.arm.json

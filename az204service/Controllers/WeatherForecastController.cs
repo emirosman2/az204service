@@ -35,5 +35,12 @@ namespace az204service.Controllers
             })
             .ToArray();
         }
+
+        [HttpGet]
+        [Route("testv2")]
+        public string Testv2()
+        {
+            return "test V2";
+        }
     }
 }
